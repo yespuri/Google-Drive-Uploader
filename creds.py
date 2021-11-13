@@ -11,7 +11,7 @@ class Creds():
     TEAMDRIVE_FOLDER_ID = "1G_IML8HirwfCwxauvFfcQWdytgCGGC0X"
     
     # Id of Team drive 
-    TEAMDRIVE_ID = "0AA1HMdH2qYrWUk9PVA"
+    TEAMDRIVE_ID = "0AOhO73QtGZ1sUk9PVA"
     
     
     
